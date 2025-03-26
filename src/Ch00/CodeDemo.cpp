@@ -1,9 +1,8 @@
 // Complete Guide to C++ Programming Foundations
-// Exercise 00_03
+// Exercise 00_03 with modification
 // Using the Exercise Files in GitHub Codespaces, by Eduardo Corpeño 
 
 #include <iostream>
-
 int main(){
     float num_1, num_2, result;
 
